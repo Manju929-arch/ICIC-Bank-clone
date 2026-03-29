@@ -31,5 +31,5 @@ The goal is to replicate a **clean, modern banking interface** using only HTML a
 ---
 
 
-This makes your profile stand out instantly.
+
 
